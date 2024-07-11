@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-r7agc_k6tzb2u+av9g78qr_hf8tik@(0*xpr_o+0dt8_)iez4r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['your-app-name.cyclic.app', 'localhost', '127.0.0.1',]
+ALLOWED_HOSTS = ['your-app-name.back4app.io', 'localhost', '127.0.0.1',]
 
 
 # Application definition
